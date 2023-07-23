@@ -5,3 +5,5 @@ Results of the Textualize [terminal survey 2022](https://docs.google.com/forms/d
 The raw data is contained in responses.csv
 
 Note that the data has been anonymized (i.e. names and emails removed)
+
+https://public.graphext.com/5cb0c032abfd4f58/index.html?section=data
